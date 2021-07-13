@@ -1,4 +1,4 @@
-# manifold-learning-arbitrary-norms
+# Manifold Learning with Arbitrary Norms
 
 Requirements:
 * Python 3 with NumPy, SciPy, Matplotlib. I recommend installing the Anaconda Python distribution.
