@@ -1,14 +1,14 @@
 # Manifold Learning with Arbitrary Norms
 
-This code produces the figures of the paper (under review):
+This code reproduces the figures from the paper:
     "Manifold learning with arbitrary norms" by Joe Kileel, Amit Moscovich, Nathan Zelesko, Amit Singer.
-    https://arxiv.org/abs/2012.14172
+    * arXiv version: https://arxiv.org/abs/2012.14172
     
-The above paper is an extension of the following short conference paper by the same authors, which is more accessible to non-mathematicians and also has some of the figures:
+The numerical section of the above paper extends the following conference paper by the same authors:
     "Earthmover-based manifold learning for analyzing molecular conformation spaces"
     IEEE 17th International Symposium on Biomedical Imaging (ISBI), 2020.
-    Publisher version: https://ieeexplore.ieee.org/document/9098723
-    arXiv version: https://arxiv.org/abs/1911.06107
+    * published version: https://ieeexplore.ieee.org/document/9098723
+    * arXiv version: https://arxiv.org/abs/1911.06107
 
 
 # Prerequisites
@@ -22,9 +22,9 @@ Python 3 is required with the following packages:
 The easiest way to install these is to download the Anaconda Python distribution and then run "pip install mrcfile".
 
 Since the figures use latex rendering for the labels, you need:
-* TeXLive. The `latex` binary must be in the command path.
-* dvipdf and dvipng
-(or you can just remove the TeX code from the labels used in plotting the figures)
+* TeXLive (the `latex` binary must be in the command path);
+* dvipdf and dvipng.
+Or you can just remove the TeX code from the labels used in plotting the figures.
 
 
 # How to run
@@ -35,7 +35,5 @@ It takes a few minutes.
 
 # Contact
 
-If you're interested in this code or associated research, feel free to shoot me an email.
-
-Amit Moscovich
+If you have any questions, feel free to email:
 amit@moscovich.org
