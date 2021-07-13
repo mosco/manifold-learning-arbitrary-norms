@@ -4,7 +4,7 @@ This code produces the figures of the paper (under review):
     "Manifold learning with arbitrary norms" by Joe Kileel, Amit Moscovich, Nathan Zelesko, Amit Singer.
     https://arxiv.org/abs/2012.14172
     
-The above paper is an extension of the following short conference paper by the same authors, which also has some of the figures:
+The above paper is an extension of the following short conference paper by the same authors, which is more accessible to non-mathematicians and also has some of the figures:
     "Earthmover-based manifold learning for analyzing molecular conformation spaces"
     IEEE 17th International Symposium on Biomedical Imaging (ISBI), 2020.
     Publisher version: https://ieeexplore.ieee.org/document/9098723
