@@ -18,7 +18,7 @@ Python 3 is required with the following packages:
 * scikit-learn
 * mrcfile
 
-The easiest way to install these is to download the Anaconda Python distribution and then run "pip install mrcfile".
+The easiest way to install these is to download the Anaconda Python distribution (https://www.anaconda.com/products/individual) and then run "pip install mrcfile".
 
 Since the figures use latex rendering for the labels, you need:
 * TeXLive (the `latex` binary must be in the command path);
