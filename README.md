@@ -2,13 +2,12 @@
 
 This code reproduces the figures from the paper:
     "Manifold learning with arbitrary norms" by Joe Kileel, Amit Moscovich, Nathan Zelesko, Amit Singer.
-    * arXiv version: https://arxiv.org/abs/2012.14172
+   https://arxiv.org/abs/2012.14172 (arXiv)
     
 The numerical section of the above paper extends the following conference paper by the same authors:
     "Earthmover-based manifold learning for analyzing molecular conformation spaces"
     IEEE 17th International Symposium on Biomedical Imaging (ISBI), 2020.
-    * published version: https://ieeexplore.ieee.org/document/9098723
-    * arXiv version: https://arxiv.org/abs/1911.06107
+    https://ieeexplore.ieee.org/document/9098723 (published), https://arxiv.org/abs/1911.06107 (arXiv)
 
 
 # Prerequisites
