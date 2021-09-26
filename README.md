@@ -2,7 +2,7 @@
 
 This code reproduces the figures from the paper:
     "Manifold learning with arbitrary norms" by Joe Kileel, Amit Moscovich, Nathan Zelesko, Amit Singer.
-   https://arxiv.org/abs/2012.14172 (arXiv)
+    https://link.springer.com/article/10.1007/s00041-021-09879-2 (published), https://arxiv.org/abs/2012.14172 (arXiv version)
     
 The numerical section of the above paper extends the following conference paper by the same authors:
     "Earthmover-based manifold learning for analyzing molecular conformation spaces"
