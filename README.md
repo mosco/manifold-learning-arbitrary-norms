@@ -35,4 +35,4 @@ It takes a few minutes.
 # Contact
 
 If you have any questions, feel free to email:
-amit@moscovich.org
+moscovich@gmail.com
